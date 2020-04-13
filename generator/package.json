@@ -5,7 +5,12 @@
   "author": "Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>",
   "license": "ISC",
   "main": "src/index.js",
-  "keywords": ["javascript", "js", "node", "es6"],
+  "keywords": [
+    "javascript",
+    "js",
+    "node",
+    "es6"
+  ],
   "scripts": {
     "***": "<------------------ build -------------------------------------->",
     "build": "babel src -d .compiled",
