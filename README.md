@@ -13,8 +13,8 @@ Template to generate new ES6 projects
 
 ## Requisites
 
-- Node 10.13.0
-- NVM 6.4.1
+- Node 14.x.x
+- NVM 7.x.x
 
 ## Packages
 
@@ -71,7 +71,3 @@ Support for debug in VSCode
 ## References
 
 - [ES6 Cli Template Generator](https://github.com/jatap/es6-cli-template-generator)
-
-## TODO
-
-- [ ] Move to yeoman
